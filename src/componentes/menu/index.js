@@ -13,7 +13,7 @@ return(
     Inicio
 </MenuLink>
 <MenuLink to="/sobremim">
-Sobre Mim
+Institucional
 
 </MenuLink>
 </nav>
